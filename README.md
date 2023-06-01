@@ -21,5 +21,5 @@ Chapters covered:
   <li>Inheritance and Polymorphism</li>
   </ol>  
   
-## Integrated Development Environment
+## IDEs
 ***IntelliJ IDEA Community Edition 2022.3.3***
