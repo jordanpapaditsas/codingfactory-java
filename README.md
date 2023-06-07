@@ -19,6 +19,17 @@ Chapters covered:
   <li>Domain Model - Class Diagram</li>
   <li>Javadoc Instance Control Reflection</li>
   <li>Inheritance and Polymorphism</li>
+  <li>Interfaces - Abstract Classes</li>
+  <li>Nested Classes, Anonymous Classes, Lambdas, Method References, Mixin interfaces</li>
+  <li>LayeredArchitectures-DAO-MVC-SOA</li>
+  <li>Generics - Java Collections API - Advanced Lambdas</li>
+  <li>Advanced Lambdas - Regular Expressions</li>
+  <li>MySQL Server & MySQL Workbench</li>
+  <li>Swing & JavaFX</li>
+  <li>Full Stack App (Swing)</li>
+  <li>Maven & Maven Projects</li>
+  <li>Unit Testing με JUnit</li>
+  <li>TCP/IP & Network Programming with Sockets</li>
   </ol>  
   
 ## IDEs
