@@ -17,7 +17,12 @@ public class Point {
         this.x = x;
     }
 
-    public String convertToString() {
+    /* public String convertToString() {
+        return "(" + x + ")";
+    } */
+
+
+    public String toString() {
         return "(" + x + ")";
     }
 

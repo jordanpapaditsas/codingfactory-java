@@ -21,9 +21,13 @@ public class Point2D extends Point {
         this.y = y;
     }
 
-    @Override
+    /* @Override
     public String convertToString() {
         return super.convertToString() + "(" + y + ")";
+    } */
+
+    public String toString() {
+        return "(" + getX() + ", " + y + ")";
     }
 
     @Override
